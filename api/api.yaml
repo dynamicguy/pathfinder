@@ -4,7 +4,7 @@ info:
   description: Generates routes for cargo shipping
   license:
     name: MIT
-    url: https://github.com/marcusolsson/pathfinder/blob/master/LICENSE
+    url: https://github.com/dynamicguy/pathfinder/blob/master/LICENSE
 paths:
   /paths:
     get:

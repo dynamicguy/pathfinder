@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
+	"github.com/dynamicguy/pathfinder"
 	"github.com/go-chi/chi"
 	"github.com/go-kit/kit/log"
-	"github.com/marcusolsson/pathfinder"
 )
 
 // Server holds the dependencies for a HTTP server.

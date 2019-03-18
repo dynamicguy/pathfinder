@@ -1,4 +1,4 @@
-module github.com/marcusolsson/pathfinder
+module github.com/dynamicguy/pathfinder
 
 require (
 	github.com/go-chi/chi v3.3.3+incompatible

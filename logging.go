@@ -4,8 +4,7 @@ import (
 	"time"
 
 	"github.com/go-kit/kit/log"
-
-	"github.com/marcusolsson/pathfinder/path"
+	"github.com/dynamicguy/pathfinder/path"
 )
 
 type loggingMiddleware struct {

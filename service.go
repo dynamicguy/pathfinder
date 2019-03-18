@@ -3,7 +3,7 @@ package pathfinder
 import (
 	"errors"
 
-	"github.com/marcusolsson/pathfinder/path"
+	"github.com/dynamicguy/pathfinder/path"
 )
 
 // ErrInvalidArgument is used if the user provides invalid arguments.

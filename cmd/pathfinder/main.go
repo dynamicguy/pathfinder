@@ -10,12 +10,12 @@ import (
 	"syscall"
 	"time"
 
+	"github.com/dynamicguy/pathfinder"
+	"github.com/dynamicguy/pathfinder/server"
 	"github.com/go-kit/kit/log"
-	"github.com/marcusolsson/pathfinder"
-	"github.com/marcusolsson/pathfinder/server"
 )
 
-const defaultPort = "8080"
+const defaultPort = "7878"
 
 func main() {
 	var (
